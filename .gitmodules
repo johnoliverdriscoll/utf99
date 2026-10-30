@@ -1,0 +1,3 @@
+[submodule "src/sio99"]
+	path = src/sio99
+	url = https://github.com/johnoliverdriscoll/sio99.git
